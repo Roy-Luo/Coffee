@@ -14,4 +14,5 @@ public class MainActivity extends AppCompatActivity {
     }
     // 兽人永不为奴!
     // 鲜血与雷鸣!
+    // 为了部落!
 }
